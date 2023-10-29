@@ -1,8 +1,10 @@
+![Screenshot (101)](https://github.com/Deepakkr3/instabackend/assets/115481021/e7b4a0ac-a7b0-479c-b634-cb1355f1148b)
+
 # DoctorAppointmentBookingApp
 # <h1 align = "center">DoctorApp Spring_Boot & Using  mySql</h1>
 ___ 
 <p align="center">
-    ![Screenshot (101)](https://github.com/Deepakkr3/instabackend/assets/115481021/e7b4a0ac-a7b0-479c-b634-cb1355f1148b)
+    
 <a href="Java url">
     <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg" />
 </a>
